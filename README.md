@@ -10,19 +10,19 @@
 
 #### Basic Courses to Start
 
-```
-CS231 : http://cs231n.stanford.edu/
-Oxford Deep-NLP : https://github.com/oxford-cs-deepnlp-2017
-```
+
+1. CS231 : http://cs231n.stanford.edu/
+2. Oxford Deep-NLP : https://github.com/oxford-cs-deepnlp-2017
+
 
 #### Graph Convolutional Networks
 
-http://www.arxiv-sanity.com/search?q=Thomas+N.+Kipf
+1. http://www.arxiv-sanity.com/search?q=Thomas+N.+Kipf
 
 ##### Need to Study
-https://arxiv.org/pdf/1611.08097.pdf
+1. https://arxiv.org/pdf/1611.08097.pdf
 
 
 #### GAN
 
-https://arxiv.org/abs/1706.08500
+1. https://arxiv.org/abs/1706.08500

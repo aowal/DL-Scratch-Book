@@ -10,9 +10,10 @@
 
 #### Basic Courses to Start
 
+```
 CS231 : http://cs231n.stanford.edu/
 Oxford Deep-NLP : https://github.com/oxford-cs-deepnlp-2017
-
+```
 
 #### Graph Convolutional Networks
 
